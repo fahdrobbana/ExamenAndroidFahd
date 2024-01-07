@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExamenAndroidFahd</string>
+
+    <string name="msg_must_not_be_empty">Must not be empty!</string>
+    <string name="msg_check_your_email">Must be a valid email!</string>
+    <string name="msg_check_your_characters">Must be a at least 6 characters!</string>
+    <string name="msg_check_your_confirm_Password">Must be the same password!</string>
+    <string name="msg_error_inputs">You Have some errors in your inputs!</string>
+    <string name="movie1">Jumangi</string>
+    <string name="movieDesc1">Hello world azertyrbviozvzijvziojvzijvizorjvzirjvjirivjzriovjrjiv\n</string>
+    <string name="movie">Movie</string>
+    <string name="profile">Profil</string>
+    <string name="logout">Logout</string>
+    <string name="email_here">Email here\n</string>
+    <string name="name_here">Name Here</string>
+</resources>
